@@ -1,2 +1,1 @@
-# GitHub.io
-CMSC320 Final Tutorial
+# CMSC320 Final Tutorial
